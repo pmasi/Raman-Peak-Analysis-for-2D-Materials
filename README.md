@@ -5,6 +5,8 @@ For instructions, please see particular subfolders.
 
 Currently available:
 
-Graphene - Raman
-Phosphorene (aka black phosphorus) - Raman 
-MoS2 - Raman
+1. Graphene - Raman
+
+2. Phosphorene (aka black phosphorus) - Raman 
+
+3. MoS2 - Raman
