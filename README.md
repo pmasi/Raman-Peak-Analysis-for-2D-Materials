@@ -7,8 +7,8 @@ Currently available:
 
 1. Graphene
 
-2. Phosphorene (aka black phosphorus)
+2. Phosphorene (i.e. black phosphorus)
 
-3. MoS2
+3. Molybdenum Disulfide (i.e. MoS2)
 
-4. WS2
+4. Tungsten Disulfide (i.e. WS2)
